@@ -1,0 +1,5 @@
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.AssemblyReference.cache
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfoInputs.cache
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfo.cs
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.CoreCompileInputs.cache

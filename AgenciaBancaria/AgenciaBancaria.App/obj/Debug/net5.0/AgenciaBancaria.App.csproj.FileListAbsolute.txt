@@ -1,0 +1,16 @@
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.exe
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.deps.json
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.runtimeconfig.json
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.runtimeconfig.dev.json
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.dll
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\ref\AgenciaBancaria.App.dll
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\bin\Debug\net5.0\AgenciaBancaria.App.pdb
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.csproj.AssemblyReference.cache
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.AssemblyInfoInputs.cache
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.AssemblyInfo.cs
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.csproj.CoreCompileInputs.cache
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.dll
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\ref\AgenciaBancaria.App.dll
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.pdb
+D:\PROJETOS\DIO\ESTAGIO_AVANADE\DOTNET\AgenciaBancaria\AgenciaBancaria.App\obj\Debug\net5.0\AgenciaBancaria.App.genruntimeconfig.cache
